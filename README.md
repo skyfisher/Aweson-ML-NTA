@@ -3,13 +3,6 @@
 papers, codes & tools
 </div>
 
-## Table of Contents
-- [Papers](#papers)
-    - [Survey](#survey)
-    - [Network Traffic Classification](#network-traffic-classification)
-    - [Network Traffic Generation](#network-traffic-generation)
-    - [Network Intrusion Detection](#network-intrusion-detection)
-
 ## Papers
 
 ### Network Traffic Classification
